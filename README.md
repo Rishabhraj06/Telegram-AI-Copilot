@@ -1,6 +1,11 @@
-# 🚀 Antigravity IDE + Telegram Agent Bridge
+# 📲 Telegram AI Copilot
 
-An autonomous AI coding agent bridge connecting **Telegram** directly with **Google Gemini (Antigravity Engine)**. Send coding instructions, manage projects, write files, and approve command executions directly from your Telegram chat — running on **Windows** or **Kali Linux**.
+> **Autonomous AI Coding Assistant & Task Scheduler Bridge Powered by Telegram & Gemini Engine**  
+> *Send coding instructions, manage projects, and schedule routines directly from Telegram chat.*
+
+<div align="center">
+  <img src="assets/demo.gif" width="100%" alt="Telegram AI Copilot Live Demo Video"/>
+</div>
 
 ---
 
